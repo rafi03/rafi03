@@ -27,7 +27,7 @@ Collection of scripts and tools designed to automate common SOC tasks and improv
 ### Vulnerability Management System
 Web-based vulnerability tracking and remediation management application for security teams.
 
-**[View Project Repository](https://github.com/yourusername/vulnerability-management)**
+**[View Project Repository](https://github.com/rafi03/vulnerability-management)**
 
 ## 💻 Technical Skills
 
