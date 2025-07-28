@@ -25,7 +25,7 @@ Cybersecurity enthusiast with a solid foundation in blue team operations and pro
 | Certification | Status | Details |
 |---------------|--------|---------|
 | **Blue Team Level 1 (BTL1)** | ✅ **Certified** | Defensive Security Operations |
-| **CompTIA Security+** | 🎯 **In Progress** | Expected completion: May 20, 2025 |
+| **CompTIA Security+** | 🎯 **In Progress** | Expected completion: August, 2025 |
 
 </div>
 
