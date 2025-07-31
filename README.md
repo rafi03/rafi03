@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdullah-al-rafi03/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-al-rafi03/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alrafikp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rafi03)
 
@@ -97,6 +97,31 @@ Passionate cybersecurity professional with demonstrated expertise in threat hunt
 
 ---
 
+### 📱 Windows 11 STIG Compliance Automation
+**[windows11-stig-compliance](https://github.com/rafi03/STIG-Windows11-Compliance)**
+
+> Comprehensive PowerShell automation suite for Windows 11 STIG compliance remediation
+
+**🎯 Objective**: Automate remediation of 40 STIG compliance failures identified during security assessment
+
+**🔧 Technologies**: PowerShell, Windows 11, Group Policy, Registry Management
+
+**📊 Key Achievements**:
+- **40 STIG remediations** automated
+- **100% compliance** achievement capability
+- Detailed logging and verification for each remediation
+- Backup and restore functionality included
+
+**🛠️ Technical Highlights**:
+- Advanced PowerShell scripting with error handling
+- Registry and Group Policy automation
+- Compliance reporting and verification tools
+- Enterprise-ready deployment scripts
+
+[![View Project](https://img.shields.io/badge/View%20Project-windows11--stig--compliance-success?style=flat-square&logo=github)](https://github.com/rafi03/STIG-Windows11-Compliance)
+
+---
+
 ### 🏢 Enterprise Cybersecurity Lab
 **[enterprise-cyber-lab](https://github.com/rafi03/enterprise-cyber-lab)**
 
@@ -157,8 +182,9 @@ Passionate cybersecurity professional with demonstrated expertise in threat hunt
 | **Critical Risk Elimination** | 100% of critical vulnerabilities resolved |
 | **Threat Detection Time** | Sub-minute detection capabilities |
 | **Investigation Scope** | 102+ artifacts analyzed per incident |
+| **STIG Remediations** | 40+ automated compliance fixes |
 | **Network Coverage** | 6-node enterprise lab environment |
-| **Automation Scripts** | 5+ PowerShell remediation tools |
+| **Automation Scripts** | 45+ PowerShell remediation tools |
 
 </div>
 
@@ -205,5 +231,5 @@ I'm passionate about cybersecurity and always interested in discussing:
 ---
 
 <div align="center">
-<sub>💡 <strong>Portfolio Highlights:</strong> Real-world threat hunting investigations | Enterprise vulnerability management | Hands-on security lab environments</sub>
+<sub>💡 <strong>Portfolio Highlights:</strong> Real-world threat hunting investigations | Enterprise vulnerability management | STIG compliance automation | Hands-on security lab environments</sub>
 </div>
